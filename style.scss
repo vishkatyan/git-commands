@@ -1,0 +1,14 @@
+// styling animation
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+.container{
+    iframe{
+        height: 100vh;
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+    }
+}
