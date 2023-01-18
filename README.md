@@ -5,3 +5,9 @@
 3. git add .
 4. git commit -m "Comment"
 5. git push -u origin master
+
+// Add Updated Code to Existing Repo
+1. git status
+2. git add .
+3. git commit -m "Comment"
+4. git push -u origin master
